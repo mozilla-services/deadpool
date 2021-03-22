@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.5.2-issue92
+
+* Fix invalid `size` and `available` counts when recycling fails
+
 ## v0.5.2
 
 * Deprecate `managed::Config::from_env`
